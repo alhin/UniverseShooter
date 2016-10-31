@@ -9,7 +9,3 @@ doc/
 hs_err_pid*
 /bin
 *.json
-#Specific
-AlbumArtSmall.jpg
-Folder.jpg
-themes.txt
